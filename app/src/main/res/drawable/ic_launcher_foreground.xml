@@ -1,0 +1,11 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Three books on a shelf. -->
+    <path android:fillColor="#FFFFFF" android:pathData="M34,40h10v32h-10z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M47,35h10v37h-10z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M60,43h13v29h-13z" />
+    <path android:fillColor="#FFFFFF" android:pathData="M30,74h48v4h-48z" />
+</vector>
